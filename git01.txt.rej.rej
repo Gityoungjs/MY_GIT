@@ -1,0 +1,9 @@
+diff a/git01.txt.rej b/git01.txt.rej	(rejected hunks)
+@@ -0,0 +1,7 @@
++diff a/git01.txt b/git01.txt	(rejected hunks)
++@@ -1,2 +1,4 @@
++ 11111111111111111111111111111111
+++..
+++2222222222222222222222222
++ ..
++\ No newline at end of file
